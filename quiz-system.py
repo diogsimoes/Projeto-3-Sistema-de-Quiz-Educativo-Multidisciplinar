@@ -1,4 +1,4 @@
-# quiz_system.py
+# Projeto 3: Sistema de Quiz 
 import random
 import time
 from datetime import datetime
